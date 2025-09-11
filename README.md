@@ -2,7 +2,7 @@
 
 </p>
 
-<h1 align="center">👩‍💻 Yeeun Kim | STUDENT OF - 🧩</h1>
+<h1 align="center">👩‍💻 Yeeun Kim | STUDENT </h1>
 
 <h3 align="center"><i>"햅삐얍삐"</i></h3>
 
