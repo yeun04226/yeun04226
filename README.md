@@ -15,7 +15,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yeun04226&style=for-the-badge)
 
 ---
-
 ## About Me
 
 NAME : YEEUN KIM
@@ -25,7 +24,6 @@ INTENDED MAJOR : DATA SCIENCE / PREVIOUS MAJOR : BUSINESS ADMINISTRATION
 PERSONALITY : INDEPENDENT BUT WARM-HEARTED🌼
 
 ---
-
 ## HOBBY
 - 영화 보기
 - 좋은 음악 찾기
