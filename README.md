@@ -23,11 +23,10 @@
 
 * PERSONALITY : INDEPENDENT BUT WARM-HEARTED🌼
 
+* 현재 아이엘츠 공부하고 있습니다.
+
 ---
 ## HOBBY
 - 영화 보기
 - 좋은 음악 찾기
 - 누워 있기
-
----
-현재 아이엘츠 공부하고 있습니다.
