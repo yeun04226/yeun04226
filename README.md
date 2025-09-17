@@ -1,4 +1,4 @@
-</p><img width="4646" height="2613" alt="daisy" src="https://github.com/user-attachments/assets/dd54144a-07b8-4134-a239-0f3ab5a2a4d8" />
+</p><img width="1340" height="189" alt="Screenshot 2025-09-17 at 9 46 16 am" src="https://github.com/user-attachments/assets/0d1417dd-4472-4b80-9371-b03efa0eb17e" />
 
 <h1 align="center">👩‍💻 Yeeun Kim </h1>
 
