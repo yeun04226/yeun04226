@@ -10,7 +10,7 @@
 
 </p>
 
-<h1 align="center">## 📈 Profile Views </h1>
+## 📈 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeun04226&style=for-the-badge)
 
@@ -28,3 +28,6 @@
 - 영화 보기
 - 좋은 음악 찾기
 - 누워 있기
+
+---
+<h1>현재 아이엘츠 공부하고 있습니다</h1>
