@@ -14,8 +14,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeun04226&style=for-the-badge)
 
-### 🔥 Commit Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=yeun04226&theme=dark&hide_border=true)
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeun04226&theme=dark&hide_border=true)
+
 ---
 ## About Me
 
