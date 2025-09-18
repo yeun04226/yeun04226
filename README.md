@@ -16,7 +16,7 @@
 
 ---
 
-### 🔥 Commit Streak (대체 버전)
+### 🔥 Commit Streak
 ![GitHub Streak](https://streak-stats.vercel.app/?user=yeun04226&theme=dark&hide_border=true)
 
 ---
