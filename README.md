@@ -17,7 +17,7 @@
 ---
 
 ### 🔥 Commit Streak
-![GitHub Streak](https://streak-stats.vercel.app/?user=yeun04226&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app/?user=yeun04226&theme=light&hide_border=true)
 
 ---
 ## About Me
