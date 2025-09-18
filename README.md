@@ -16,8 +16,8 @@
 
 ---
 
-### 🔥 Commit Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeun04226&theme=dark&hide_border=true)
+### 🔥 Commit Streak (대체 버전)
+![GitHub Streak](https://streak-stats.vercel.app/?user=yeun04226&theme=dark&hide_border=true)
 
 ---
 ## About Me
