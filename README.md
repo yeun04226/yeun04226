@@ -1,8 +1,10 @@
 <p align="center">
+  <!-- 검정 배경 (1000x400짜리 검정색 이미지) -->
+  <img src="https://via.placeholder.com/1000x400/000000/000000" width="1000">
+  
+  <!-- GIF (겹쳐지진 않고, 배경 아래에 위치) -->
   <img src="https://giffiles.alphacoders.com/219/219162.gif" width="500">
 </p>
-
-<img src="https://via.placeholder.com/1000x50/000000/000000" width="100%">
 
 <h1 align="center">👩‍💻 Yeeun Kim </h1>
 
