@@ -1,5 +1,7 @@
 </p><img width="1340" height="189" alt="Screenshot 2025-09-17 at 9 46 16 am" src="https://github.com/user-attachments/assets/0d1417dd-4472-4b80-9371-b03efa0eb17e" />
 
+![My GIF](https://giffiles.alphacoders.com/219/219162.gif)
+
 <h1 align="center">👩‍💻 Yeeun Kim </h1>
 
 <h3 align="center"><i>"햅삐얍삐"</i></h3>
