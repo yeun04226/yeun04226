@@ -1,6 +1,8 @@
-<div align="center" style="background-color:black; padding:20px;">
+<p align="center">
   <img src="https://giffiles.alphacoders.com/219/219162.gif" width="500">
-</div>
+</p>
+
+<img src="https://via.placeholder.com/1000x50/000000/000000" width="100%">
 
 <h1 align="center">👩‍💻 Yeeun Kim </h1>
 
