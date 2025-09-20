@@ -33,7 +33,8 @@
 * 현재 아이엘츠 공부하고 있습니다.
 
 * 저스틴비버 좋아합니다.<br>
-[<img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="100">](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05)
+[<img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="200">](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05)  
+➡️ [Listen here](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05)
 
 ---
 ## HOBBY
