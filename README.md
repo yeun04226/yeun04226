@@ -33,7 +33,7 @@
 * 현재 아이엘츠 공부하고 있습니다.
 
 * 저스틴비버 좋아합니다.
-* [![Justin Bieber](https://img.youtube.com/vi/msGuqelopMA/0.jpg)](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05)
+[<img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="100">](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05)
 
 ---
 ## HOBBY
