@@ -30,9 +30,9 @@
 
 * PERSONALITY : INDEPENDENT BUT WARM-HEARTED🌼
 
-* 현재 아이엘츠 공부하고 있습니다.
+* I'M STUDYING IELTS
 
-* 저스틴비버 좋아합니다.<br>
+* I LOVE JUSTIN BIEBER THE MOST<br>
 [<img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120">](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05) [👈🏻 click and listen here]
 
 
