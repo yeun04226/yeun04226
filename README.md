@@ -35,8 +35,8 @@
 * I LOVE JUSTIN BIEBER THE MOST  
 
 <p>
-    <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120" align="middle">
-  👉🏻 click and listen here!
+  <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120" align="middle">
+  👉🏻 <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">click and listen here!</a>
 </p>
 
 ---
