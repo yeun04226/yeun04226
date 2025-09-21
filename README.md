@@ -38,10 +38,8 @@
   <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">
     <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120" align="middle">
   </a>
-  👉🏻 <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">click and listen here!</a>
+  👉🏻 click and listen here!
 </p>
-
-
 ---
 ## HOBBY
 - 영화 보기
