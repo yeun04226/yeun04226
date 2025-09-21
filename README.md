@@ -34,18 +34,13 @@
 
 * I LOVE JUSTIN BIEBER THE MOST  
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">
-        <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120">
-      </a>
-    </td>
-    <td valign="middle">
-      👉🏻 <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">click and listen here!</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">
+    <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120" align="middle">
+  </a>
+  👉🏻 <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">click and listen here!</a>
+</p>
+
 
 ---
 ## HOBBY
