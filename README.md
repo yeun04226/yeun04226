@@ -32,8 +32,20 @@
 
 * I'M STUDYING IELTS
 
-* I LOVE JUSTIN BIEBER THE MOST<br>
-[<img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120">](https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05) [👈🏻 click and listen here!]
+* I LOVE JUSTIN BIEBER THE MOST  
+
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">
+        <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      👉🏻 <a href="https://youtu.be/msGuqelopMA?si=RSFENETjNJ6d2Q05">click and listen here!</a>
+    </td>
+  </tr>
+</table>
 
 
 ---
