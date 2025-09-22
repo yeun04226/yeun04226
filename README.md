@@ -24,15 +24,15 @@
 ---
 ## About Me
 
-* NAME : YEEUN KIM
+* NAME : Yeeun Kim
 
-* INTENDED MAJOR : DATA SCIENCE / PREVIOUS MAJOR : BUSINESS ADMINISTRATION
+* INTENDED MAJOR : Data Science / PREVIOUS MAJOR : Business Administration
 
-* PERSONALITY : INDEPENDENT BUT WARM-HEARTED🌼
+* PERSONALITY : Independent but warm-hearted🌼
 
-* I'M STUDYING IELTS
+* I'm studying IELTS!
 
-* I LOVE JUSTIN BIEBER THE MOST  
+* I love JUSTIN BIEBER the most  
 
 <p>
   <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120" align="middle">
