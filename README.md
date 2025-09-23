@@ -30,7 +30,7 @@
 
 * PERSONALITY : Independent but warm-hearted🌼
 
-* I'm studying IELTS!
+* I'm studying IELTS
 
 * I love JUSTIN BIEBER the most  
 
