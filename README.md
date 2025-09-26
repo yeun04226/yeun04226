@@ -24,7 +24,7 @@
 ---
 ## About Me
 
-* NAME : Yeeun Kim
+* NAME : Yeeun Kiㅡ
 
 * INTENDED MAJOR : Data Science / PREVIOUS MAJOR : Business Administration
 
