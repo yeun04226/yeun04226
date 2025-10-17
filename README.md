@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <!-- Animated typing SVG -->
+  <!-- Animated typing SVG-->
 
 </p>
 
