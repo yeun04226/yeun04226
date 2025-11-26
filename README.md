@@ -2,7 +2,7 @@
   <img src="https://giffiles.alphacoders.com/219/219162.gif" width="500">
 </div>
 
-<h3 align="center">👩‍💻 Yeeun Kim </h3>
+<h1 align="center">👩‍💻 Yeeun Kim </h1>
 
 <h3 align="center"><i>"햅삐얍삐"</i></h3>
 
