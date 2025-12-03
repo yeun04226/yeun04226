@@ -32,7 +32,9 @@
 
 * I'm studying IELTS
 
-* I love JUSTIN BIEBER the most  
+* I love JUSTIN BIEBER the most
+
+* Thesedays I'm into "THE WALKING DEAD"
 
 <p>
   <img src="https://img.youtube.com/vi/msGuqelopMA/0.jpg" width="120" align="middle">
